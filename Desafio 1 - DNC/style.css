@@ -1,0 +1,98 @@
+* {
+    font-family: 'inter';
+    margin: 0;
+}
+
+#menusuperior {
+    background-image: url(IMG/fundo-topo.svg);
+    color: white;
+    padding: 100px;
+}
+
+#titulo-topo {
+    margin-left: 15px;
+}
+
+#texto-topo {
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#menuinformacional {
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.numero {
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.texto-info {
+    margin-top: 85px;
+    margin-left: 0px;
+}
+
+#texto{
+    margin-top: 200px;
+}
+#texto h1 {
+    margin-bottom: 80px;
+}
+
+#menumeio {
+    display:grid;
+    grid-auto-flow: column;
+    columns: auto;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+}
+
+#imagem {
+    border-radius: 30px;
+    width: 510px;
+    height: 605px;
+    margin-right: 20px;
+}
+
+
+#footer {
+    background-color: #303030;
+    text-align: center;
+    padding: 30px;
+}
+
+input{
+    width: 400px;
+    height: 60px;
+    border-radius: 10px;
+
+}
+
+button{
+    background: #C07212;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+h3 {
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+input {
+    color: #FFFFFF;
+    margin:30px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
